@@ -10,9 +10,7 @@ angka 1 sampai 9.
 Jawab: for lebih sesuai digunakan ketika jumlah perulangan sudah diketahui atau ketika ingin 
 melakukan perulangan pada suatu urutan data. 
 4. Sebutkan tiga komponen utama yang harus diperiksa pada while. 
-Jawab: 1. Kondisi perulangan. 
-2. Nilai awal variabel yang digunakan dalam kondisi. 
-3.Perubahan variabel agar kondisi akhirnya menjadi False. 
+Jawab: 1. Kondisi perulangan. 2. Nilai awal variabel yang digunakan dalam kondisi. 3.Perubahan variabel agar kondisi akhirnya menjadi False. 
 5. Apa penyebab paling umum infinite loop? 
 Jawab: Penyebab paling umum adalah kondisi while tidak pernah menjadi False karena 
 variabel pengendali perulangan tidak diperbarui dengan benar. 
